@@ -1,1 +1,24 @@
+Fisrtofall this topic i learned from trainwithshubam
+Module 1 - Why Jira
+Q) what is Jira?and what its used for?
+Its a number 1 tool for planning & project management in the SDLC industry,made by atlassian company
+Q)Jira in the Devops Lifecycle?
+In devops lifecycle, jira will use in planning
+Q)Jira account setup?Its a project tracking tool
+A)
 
+MOdule 2 - The Building Blocks
+-------------------------------------
+Epic-story-task-subtask-bug
+what makes a 
+
+## Created Github integration for jira
+
+-go to jira
+-go to spaces, select your space
+-go to code tab
+-connect github
+-you will be able to integrate GITHUB & Jira
+
+# What is Slack?
+-Slack is to communicate between team
